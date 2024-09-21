@@ -17,7 +17,7 @@ Adjusting the warmth tone of your screen or it's brightness is as easy as ever, 
 You won't need to download external packages or enter commands in your terminal.
 
 # Installation
-- Place the folder in `~/.local/share/cinnamon/applets`
+- Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
 
 - Open the 'Applets' window, through the 'System Settings' or by right-clicking on any panel and clicking on 'Applets'.
 
