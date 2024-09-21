@@ -1,4 +1,4 @@
-# What is Blue Light Blocker 
+# :waning_crescent_moon: What is Blue Light Blocker 
 This applet is the Linux Mint equivalent of '**Night Light**' (on Windows), and '**Night Shift**' (on macOS).
 
 <img alt="Night Light in Windows" src="https://github.com/user-attachments/assets/bc55a22c-b986-496c-b77e-b9e718308fd2" width="250" height="250">
@@ -6,20 +6,26 @@ This applet is the Linux Mint equivalent of '**Night Light**' (on Windows), and 
 
 It acts as a blue light filter and makes your display use warmer colors, according to your likings. This applet, **Blue Light Blocker**, also allows you to control the brightness of your screen at will. 
 
-# YOU are in control!
-Is it still day time? Is it night time? Who cares! Don't let the clock dictate when your screen has to block blue light from entering your precious little eyes! 
+# :sunglasses: YOU are in control!
+Some applets are time-based, meaning they only block blue light at certain times of the day. The user has no control over the blue light filtering.
+
+With Blue Light Blocker, however, you are in total control!
+
+Is it still day time? Is it night time? Who cares! Don't let the clock dictate when your screen has to block blue light from entering your precious little eyes! 👁️ 👄 👁️
 
 You want to block blue light *all day*? You got it!
 You want to block blue light *only at night*? It's your call, boss!
 You want to block blue light *only when you feel like it*? No problemo! 
 
 You can enable and disable this applet anytime in merely 2 clicks! 
-Adjusting the warmth tone of your screen or it's brightness is as easy as ever, thanks to simple sliders with real-time feedback!
+Adjusting the warmth tone of your screen or it's brightness has never been easier, thanks to simple sliders with real-time feedback!
 
-# Batteries Included!
+What a time to be alive :relieved: :sparkles:
+
+# :battery: Batteries Included!
 You won't need to download external packages or enter commands in your terminal.
 
-# Installation
+# :computer: Installation
 - Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
 
 - Open the 'Applets' window, through the 'System Settings' or by right-clicking on any panel and clicking on 'Applets'.
@@ -30,12 +36,12 @@ You won't need to download external packages or enter commands in your terminal.
 
     <img alt="Button to click in order to add the applet to the panel" src="https://github.com/user-attachments/assets/e85972c0-d480-4e68-a64e-5979b4f031b1" width="400" height="316">
 
-# Usage
+# :construction_worker: Usage
 Click on the Blue Light Blocker Applet in the panel and use the sliders to modify the color temperature of your screen or its brightness.
 
- <img alt="Using Blue Light Blocker" src="https://github.com/user-attachments/assets/145b06ef-b6b0-4e5c-a259-e030f24ac52b" width="381" height="220">
+ <img alt="Using Blue Light Blocker" src="https://github.com/user-attachments/assets/5300ee3f-28e9-4ad9-8547-edab8240591a" width="381" height="220">
 
-# Configuration
+# :wrench: Configuration
 
 Right click on the Blue Light Blocker applet in your panel and click on 'Configure...'
 
@@ -43,7 +49,7 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 <img alt="Configuration window" src="https://github.com/user-attachments/assets/8d66fc1e-1d92-4d39-aa8a-03af1d648ab8" width="300" height="250">
 
 
-# Possible Future Features
+# 🚧 Possible Future Features
 - Allow the user to use a custom icon/image for the applet in the panel
 - Allow the user to display a custom format for the color temperature in brightness info in the panel
 - Translations for other languages
