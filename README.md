@@ -24,7 +24,7 @@ What a time to be alive :relieved: :sparkles:
 
 # :battery: Batteries Included!
 This version of Blue Light Blocker comes with everything it needs right out of the box!
-You won't need to install additionnal packages or enter commands in your terminal.[*](#footnote)
+You won't need to install additionnal packages or enter commands in your terminal.[*](#installing-the-applet-via-the-applet-window)
 
 # :computer: Installation
 - Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
@@ -62,7 +62,6 @@ That is because Cinnamon does not allow developpers to publish their applets wit
 would require users to have 2 libraries/packages installed on their computer that most people don't have by default (`libx11-dev` and `libxrandr-dev`). 
 
 ### What's `xsct` and why is it required?
-<a name="footnote"> </a>
 `xsct` is a public domain (open-source, but better) UNIX tool that allows you to change the color temperature of your screen. However, it only functions via terminal commands, which is a total pain in the butt to use if you
 frequently change the color temperature of your screen. 
 
