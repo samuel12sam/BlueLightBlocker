@@ -60,7 +60,7 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 - Translations for other languages
 
 # ⚡ Automatic Installation
-Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package.
+Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package, as opposed to users who [manually install it](#-manual-installation).
 
 That is because Cinnamon does not allow developpers to publish their applets with pre-compiled code and compiling the code automatically after the applet gets downloaded from the 'Download' tab
 would require users to have 2 libraries/packages installed on their computer that most people don't have by default (`libx11-dev` and `libxrandr-dev`). 
