@@ -24,9 +24,13 @@ What a time to be alive :relieved: :sparkles:
 
 # :battery: Batteries Included!
 This version of Blue Light Blocker comes with everything it needs right out of the box!
-You won't need to install additionnal packages or enter commands in your terminal.[*](#ℹ️-installing-the-applet-via-the-applet-window-instead)
+You won't need to install additionnal packages or enter commands in your terminal.[*](#⚡-automatic-installation)
 
-# :computer: Installation
+# :computer: Manual Installation
+- Download the github repository as a ZIP file
+
+- Extract the ZIP file
+
 - Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
 
 - Open the 'Applets' window, through the 'System Settings' or by right-clicking on any panel and clicking on 'Applets'.
@@ -55,7 +59,7 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 - Allow the user to display a custom format for the color temperature in brightness info in the panel
 - Translations for other languages
 
-# ℹ️ Installing the applet via the Applet window instead
+# ⚡ Automatic Installation
 Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package.
 
 That is because Cinnamon does not allow developpers to publish their applets with pre-compiled code and compiling the code automatically after the applet gets downloaded from the 'Download' tab
