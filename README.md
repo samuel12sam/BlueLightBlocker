@@ -76,10 +76,10 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 - Translations for other languages
 
 # ⚡ Automatic Installation
-Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package, as opposed to users who [manually install it](#-manual-installation).
-
-That is because Cinnamon does not allow developpers to publish their applets with pre-compiled code and compiling the code automatically after the applet gets downloaded from the 'Download' tab
-would require users to have 2 libraries/packages installed on their computer that most people don't have by default (`libx11-dev` and `libxrandr-dev`). 
+> [!NOTE]
+> Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package, as opposed to users who [manually install it](#-manual-installation).
+> That is because the installation process through Cinnamon tempers with pre-compiled code permissions and compiling the code automatically after the applet gets downloaded from the 'Download' tab
+> would require users to have 2 libraries/packages installed on their computer that most people don't have by default (`libx11-dev` and `libxrandr-dev`). 
 
 ### What's `xsct` and why is it required?
 `xsct` is a public domain (open-source, but better) UNIX tool that allows you to change the color temperature of your screen. However, it only functions via terminal commands, which is a total pain in the butt to use if you
