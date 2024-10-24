@@ -494,6 +494,8 @@ BlueLightBlockerApplet.prototype = {
 
     _load_xsct_executable() {
         try {
+            //Give permission to the xsct executable
+            this._run_cmd(`chmod +x ~/.local/share/cinnamon/applets/${UUID}/xsct/compiled_code/xsct`)
             //Get the path of the xsct executable in the applet's folder
             this.xsct_exec = GLib.build_filenamev([GLib.get_home_dir(), ".local", "share", "cinnamon", "applets", UUID, "xsct", "compiled_code", "xsct"]);;
         } catch(e) {
