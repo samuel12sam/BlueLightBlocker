@@ -24,7 +24,7 @@ What a time to be alive :relieved: :sparkles:
 
 # :battery: Batteries Included!
 This version of Blue Light Blocker comes with everything it needs right out of the box!
-You won't need to install additionnal packages or enter commands in your terminal. (Unless you perform an [automatic installation](#-automatic-installation))
+You won't need to install additionnal packages (*unless you perform an [automatic installation](#-automatic-installation)) or enter commands in your terminal!
 
 # 💻 Manual Installation
 - Download the github repository as a ZIP file
