@@ -14,7 +14,9 @@ With Blue Light Blocker, however, you are in total control!
 Is it still day time? Is it night time? Who cares! Don't let the clock dictate when your screen has to block blue light from entering your precious little eyes! 👁️ 👄 👁️
 
 You want to block blue light *all day*? You got it!
+
 You want to block blue light *only at night*? It's your call, boss!
+
 You want to block blue light *only when you feel like it*? No problemo! 
 
 You can enable and disable this applet anytime in merely 2 clicks! 
@@ -24,6 +26,7 @@ What a time to be alive :relieved: :sparkles:
 
 # :battery: Batteries Included!
 This version of Blue Light Blocker comes with everything it needs right out of the box!
+
 You won't need to install additionnal packages (*unless you perform an [automatic installation](#-automatic-installation)) or enter commands in your terminal!
 
 # 💻 Manual Installation
