@@ -26,7 +26,7 @@ What a time to be alive :relieved: :sparkles:
 This version of Blue Light Blocker comes with everything it needs right out of the box!
 You won't need to install additionnal packages or enter commands in your terminal.[*](#-automatic-installation)
 
-# :computer: Manual Installation
+# 💻 Manual Installation
 - Download the github repository as a ZIP file
 
 - Extract the ZIP file
