@@ -23,7 +23,8 @@ Adjusting the warmth tone of your screen or it's brightness has never been easie
 What a time to be alive :relieved: :sparkles:
 
 # :battery: Batteries Included!
-You won't need to download external packages or enter commands in your terminal.
+This version of Blue Light Blocker comes with everything it needs right out of the box!
+You won't need to install additionnal packages or enter commands in your terminal.[*](#footnote)
 
 # :computer: Installation
 - Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
@@ -54,5 +55,23 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 - Allow the user to display a custom format for the color temperature in brightness info in the panel
 - Translations for other languages
 
+# Installing the applet via the Applet window
+Please note that users who install Blue Light Blocker from the 'Download' tab in the 'Applet' window on Linux Mint will be prompted to install the `xsct` package.
+
+That is because Cinnamon does not allow developpers to publish their applets with pre-compiled code and compiling the code automatically after the applet gets downloaded from the 'Download' tab
+would require users to have 2 libraries/packages installed on their computer that most people don't have by default (`libx11-dev` and `libxrandr-dev`). 
+
+### What's `xsct` and why is it required?
+<a name="footnote"> </a>
+`xsct` is a public domain (open-source, but better) UNIX tool that allows you to change the color temperature of your screen. However, it only functions via terminal commands, which is a total pain in the butt to use if you
+frequently change the color temperature of your screen. 
+
+Blue Light Blocker uses this UNIX tool at its core and provides a user-friendly interface to let the user block the blue light from their screen
+using precise sliders while also adding a layer of security by making it impossible for the user to set the brightness of their screens to 0, which is possible with `xsct` via the terminal commands. 
+Blue Light Blocker also adds a lot of Quality of Life features that simply don't exist with the `xsct` package alone. 
+
+In short, Blue Light Blocker reduces the amount of tinkering necessary to change the brightness or the color temperature of your screen while also offering a simple yet very nice user experience.
+
+For more information about `xsct` : https://github.com/faf0/sct
 
 
