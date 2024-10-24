@@ -34,7 +34,9 @@ You won't need to install additionnal packages (*unless you perform an [automati
 
 - Extract the ZIP file
 
-- Place the `Blue-light-blocker@samuel12sam` folder in `~/.local/share/cinnamon/applets`
+- Place the `Blue-light-blocker@samuel12sam` folder inside `/home/[your_name]/.local/share/cinnamon/applets/`
+  
+    > If you do not see `.local`, make sure you have enabled **'Show Hidden Files'** by going into the **'View'** tab of your File Explorer and ticking the option or by using the **CTRL+H** keyboard shortcut.
 
 - Open the 'Applets' window, through the 'System Settings' or by right-clicking on any panel and clicking on 'Applets'.
 
@@ -55,6 +57,17 @@ Right click on the Blue Light Blocker applet in your panel and click on 'Configu
 
 <img alt="Opening the configuration window" src="https://github.com/user-attachments/assets/2c608c1c-71c6-41be-b5b3-8f21b34f9b95" width="253" height="167">
 <img alt="Configuration window" src="https://github.com/user-attachments/assets/8d66fc1e-1d92-4d39-aa8a-03af1d648ab8" width="300" height="250">
+
+# 🚮 Uninstalling Blue Light Blocker
+
+- Make sure to first remove the applet from your panel by pressing the '-' button.
+
+ <img alt="Uninstalling Blue Light Blocker" src="https://github.com/user-attachments/assets/a81dc679-0331-4eba-a10a-6de0c1ea7ffb" width="469" height="392">
+
+- Then uninstall it by pressing the trashcan button from the same window
+
+<img alt="Uninstalling Blue Light Blocker" src="https://github.com/user-attachments/assets/ae47e9b6-9543-4b31-9465-c2a6717fd149" width="469" height="358">
+
 
 
 # 🚧 Possible Future Features
